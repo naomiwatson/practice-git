@@ -8,6 +8,8 @@
 
 import UIKit
 
+var name = "Naomi"
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
